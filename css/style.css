@@ -29,8 +29,7 @@ body{
     margin: auto;
     box-shadow: 0px 0px 2px #5f5f5f, 0px 0px 0px 5px #ecf0f3, 8px 8px 15px #a7aaaf, -8px -8px 15px #fff;
 }
-td:n(4n+1)
-.title{
+td:n(4n+1).title{
     text-align: center;
     font-size: 20px;
     padding-top: 25px;
@@ -63,7 +62,6 @@ td:n(4n+1)
 }
 .fields i{
     margin-left: 20px;
-
 }
 
 .sel-list select{
